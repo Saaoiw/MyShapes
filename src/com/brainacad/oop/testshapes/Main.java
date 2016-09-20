@@ -4,7 +4,7 @@ package com.brainacad.oop.testshapes;
  * Created by Таня on 20.09.2016.
  */
 public class Main {
-     public static void main(String[] args) {
+       public static void main(String[] args) {
             Shape shape = new Shape("Red");
             Circle circle = new Circle("Green", 10);
             Rectangle rectangle = new Rectangle("Yellow", 11, 22);

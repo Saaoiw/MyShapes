@@ -40,10 +40,15 @@ package com.brainacad.oop.testshapes;
  Rectangles total area: 234.54
  Circle total area: 547.231
  Triangle total area: 356.56
+ 2_8_1
+ Open project MyShapes. (from 2.7 labs)
+ Rewrite the class “Shape” to make it abstract and change calcArea() method declaration to make it abstract too.
+ Execute program
+
 
 
  */
-public class Shape {
+class Shape {
     private String shapeColor;
 
     public Shape(String shapeColor) {
